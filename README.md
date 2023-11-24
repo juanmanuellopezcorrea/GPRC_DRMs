@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10201734.svg)](https://doi.org/10.5281/zenodo.10201734)
+
 <div align="center">
   <h1>Finding the Most Adequate Molecular Dynamics Data Abstraction for G Protein-Coupled Receptors through Dimensionality Reduction Techniques</h1>
 </div>
