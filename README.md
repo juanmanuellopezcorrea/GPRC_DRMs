@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/718734269.svg)](https://zenodo.org/doi/10.5281/zenodo.10201733)
 
 <div align="center">
-  <h1>Dimensional Reduction-Based Protein trajectories of GPRC</h1>
+  <h1>Dimensional Reduction-Based Protein trajectories of GPCRs.</h1>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
