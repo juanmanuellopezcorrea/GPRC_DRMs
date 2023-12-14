@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
  <div align="center">
-    <h2 style="background-color: orange; color: white; padding: 5px;">ORIGINAL REPRESENTATIONS</h2>
+    <h2 style="background-color: orange; color: white; padding: 5px;">ORIGINAL SIMULATIONS</h2>
   </div>
   
   <div align="center">
