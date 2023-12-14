@@ -17,7 +17,9 @@
   <img src="ID114/ORIGINAL_REPRESENTATION_ID114/11085.gif" alt="GIF 1" width="32.9%" autoplay />
   <img src="ID114/ORIGINAL_REPRESENTATION_ID114/11086.gif" alt="GIF 2" width="32.9%" autoplay />
   <img src="ID114/ORIGINAL_REPRESENTATION_ID114/11087.gif" alt="GIF 3" width="32.9%" autoplay />
-
+ <div align="center">
+    <h2 style="background-color: orange; color: white; padding: 5px;">Reduced trayectory</h2>
+  </div>
   <div align="center">
     <h3>ID 115 - Trajectory 11097 / Trajectory 11098 / Trajectory 11099</h3>
   </div>
