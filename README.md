@@ -6,6 +6,27 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
+ <div align="center">
+    <h2 style="background-color: orange; color: white; padding: 5px;">ORIGINAL REPRESENTATIONS</h2>
+  </div>
+  
+  <div align="center">
+    <h3>ID 114 - Trajectory 11085 / Trajectory 11086 / Trajectory 11087</h3>
+  </div>
+
+  <img src="ID114/ORIGINAL_REPRESENTATION_ID114/11085.gif" alt="GIF 1" width="32.9%" autoplay />
+  <img src="ID114/ORIGINAL_REPRESENTATION_ID114/11086.gif" alt="GIF 2" width="32.9%" autoplay />
+  <img src="ID114/ORIGINAL_REPRESENTATION_ID114/11087.gif" alt="GIF 3" width="32.9%" autoplay />
+
+  <div align="center">
+    <h3>ID 115 - Trajectory 11097 / Trajectory 11098 / Trajectory 11099</h3>
+  </div>
+
+  <img src="ID115/ORIGINAL_REPRESENTATION_ID115/11097.gif" alt="GIF 4" width="32.9%" autoplay />
+  <img src="ID115/ORIGINAL_REPRESENTATION_ID115/11098.gif" alt="GIF 5" width="32.9%" autoplay />
+  <img src="ID115/ORIGINAL_REPRESENTATION_ID115/11099.gif" alt="GIF 6" width="32.9%" autoplay />
+
+  
   <div align="center">
     <h2 style="background-color: orange; color: white; padding: 5px;">3D AMINOP POSITIONS</h2>
   </div>
